@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531321917918.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3232792010",
+    "id" : "28493704",
+    "lastKnownWriteTime" : 1531322030,
+    "last_content_update" : 1531322030460,
+    "path" : "~/GitHub/ADPR-Test/Sample_Rcode.R",
+    "project_path" : "Sample_Rcode.R",
+    "properties" : {
+        "cursorPosition" : "6,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
